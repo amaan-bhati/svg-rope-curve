@@ -1,1 +1,0 @@
-# kosmic-front-end1
