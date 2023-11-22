@@ -81,6 +81,8 @@ export default function Home() {
                 <p>Social</p>
                 <p>Entertainment</p>
                 <p>Medicine</p>
+<p>Entertainment</p>
+                <p>Medicine</p>
               </div>
             </div>
         </div>
